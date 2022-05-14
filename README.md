@@ -42,7 +42,7 @@ Acceptable url parameters:
 Example:
 
 ```
-curl 'localhost:9113/probe?region=us-west-2&cluster=ihub-nginx-i3-c59d09&port=8443&path=/basic_status'
+curl 'localhost:9113/probe?region=us-west-2&cluster=my-cluster&port=8443&path=/basic_status'
 ```
 
 ## Permission
