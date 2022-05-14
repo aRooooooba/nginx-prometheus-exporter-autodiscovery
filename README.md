@@ -47,8 +47,6 @@ curl 'localhost:9113/probe?region=us-west-2&cluster=ihub-nginx-i3-c59d09&port=84
 
 ## Permission
 
-The permission to ECS services is given by the AWS EC2 instance profile.
-
 Required permission:
 
 ```
